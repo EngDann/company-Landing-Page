@@ -31,7 +31,7 @@ The development of the "Company Landing Page" presented numerous challenges and 
 
 ## Video
 
-https://github.com/EngDann/company-Landing-Page/assets/137555908/f3f87941-1824-4fda-a976-20b460a58c66
+https://github.com/EngDann/company-Landing-Page/assets/137555908/19dfcfbf-5522-473e-9152-ebb7a07c18b5
 
 ## How to Use
 
@@ -141,7 +141,7 @@ O desenvolvimento da "Company Landing Page" apresentou diversos desafios e propo
 
 ## Video
 
-https://github.com/EngDann/company-Landing-Page/assets/137555908/f3f87941-1824-4fda-a976-20b460a58c66
+https://github.com/EngDann/company-Landing-Page/assets/137555908/19dfcfbf-5522-473e-9152-ebb7a07c18b5
 
 ## Como Usar
 
