@@ -141,6 +141,8 @@ O desenvolvimento da "Company Landing Page" apresentou diversos desafios e propo
 
 ## Video
 
+https://github.com/EngDann/company-Landing-Page/assets/137555908/f3f87941-1824-4fda-a976-20b460a58c66
+
 ## Como Usar
 
 Para visualizar a "Company Landing Page", você pode seguir estes passos:
